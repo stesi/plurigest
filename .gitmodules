@@ -26,3 +26,8 @@
 	path = OCA/account-payment
 	url = git@github.com:OCA/account-payment.git
 	branch = 14.0
+
+[submodule "stesi/stesi_accounting"]
+	path = stesi/stesi_accounting
+	url = git@github.com:stesi/stesi_accounting.git
+	branch = 14.0
